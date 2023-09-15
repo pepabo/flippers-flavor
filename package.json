@@ -1,0 +1,15 @@
+{
+  "name": "@pepabo-inhouse/flippers-flavor",
+  "description": "Flippers flavor for Inhouse Components Web",
+  "version": "0.0.0",
+  "publishConfig": {
+    "registry": "https://npm.git.pepabo.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pepabo/flippers-flavor.git"
+  },
+  "dependencies": {
+    "@pepabo-inhouse/tokens": "^0.14.0"
+  }
+}
