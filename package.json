@@ -4,7 +4,7 @@
   "version": "0.3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pepabo/flippers-flavor.git"
+    "url": "git+https://github.com/pepabo/flippers-flavor.git"
   },
   "dependencies": {
     "@pepabo-inhouse/tokens": "^0.17.1"
