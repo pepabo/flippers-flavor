@@ -7,6 +7,6 @@
     "url": "git+https://github.com/pepabo/flippers-flavor.git"
   },
   "dependencies": {
-    "@pepabo-inhouse/tokens": "^0.17.1"
+    "@pepabo-inhouse/tokens": "^2.3.0"
   }
 }
